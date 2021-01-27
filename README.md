@@ -8,26 +8,13 @@
   - отзывы клиентов, 
   - удобство использования
 
-[Bitricks](/bitricks.html)
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Bitricks](/bitricks.html) and ![Image](src)
-```
+1. [Битрикс24](/bitricks.html)
+2. [Бизнес.Ру (Класс365)](/bitricks.html)
+3. [CloudShop](/bitricks.html)
+4. [RetailCRM](/bitricks.html)
+5. [Poster](/bitricks.html)
+6. [SUBTOTAL](/bitricks.html)
+7. [1С:Розница 8](/bitricks.html)
+8. [RS.SCM](/bitricks.html)
+9. [1С:Касса](/bitricks.html)
+10. [Hookah-CRM](/bitricks.html)
